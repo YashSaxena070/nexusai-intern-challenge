@@ -1,0 +1,2 @@
+# all are pyhton builtin modules, no need to install anything
+# Requirements: Python 3.10+ (for dataclasses and new type hint syntax)

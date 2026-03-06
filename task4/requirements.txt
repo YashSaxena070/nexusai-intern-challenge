@@ -1,0 +1,2 @@
+pytest
+# Requires Python 3.9+ for tuple generic type hint syntax
